@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selçuk!</h1>
 <h3 align="center">A passionate backend developer from Istanbul</h3>
 
-- 🔭 I’m currently working at **Getir as a Backend Developer**
+- 🔭 I’m currently working at **Getir as Backend Developer**
 
 - 🌱 I’m currently learning **Node.js and in general MERN Stack**
 
