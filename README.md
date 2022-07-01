@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Selçuk!</h1>
 <h3 align="center">A passionate backend developer from Istanbul</h3>
 
-- 🔭 I’m currently working at **Getir as Backend Developer**
+- 🔭 I’m currently working at **Getir as Node.js Backend Developer**
 
-- 🌱 I’m currently learning **Node.js and in general MERN Stack**
+- 🌱 I’m currently learning **Go**
 
 - 📝 I regularly write articles on [https://aselcuktuncer.github.io/](https://aselcuktuncer.github.io/)
 
